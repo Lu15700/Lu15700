@@ -1,4 +1,6 @@
-Beta 1.0
+Beta 1.3
+
+## Data Analytics and Engineering
 
 ## Computer Languages
 - Python
@@ -11,3 +13,6 @@ Beta 1.0
 ## Human Languages
 - English
 - Spanish
+
+## Machine Learning
+- Later On...

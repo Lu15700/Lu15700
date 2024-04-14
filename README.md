@@ -7,3 +7,7 @@ Beta 1.0
 - JavaScript
 - HTML
 - CSS
+
+## Human Languages
+- English
+- Spanish

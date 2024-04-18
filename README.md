@@ -22,6 +22,10 @@ Beta 2.0
 - Basic concepts
 - Continuing to learn later on...
 
+---
+## Certifications
+
+---
 ## Socials
 - [LinkedIn](https://www.linkedin.com/in/lu15700/)
 - [Twitter](https://twitter.com/Lu15700/)

@@ -1,7 +1,7 @@
 Beta 2.0
 
 ---
-## Core Skills
+## Skills
 
 ### Data Analytics and Engineering
 - AWS
@@ -23,9 +23,9 @@ Beta 2.0
 - Continuing to learn later on...
 
 ---
-## Core Certifications
+## Certifications
 
 ---
-## Core Socials
+## Socials
 - [LinkedIn](https://www.linkedin.com/in/lu15700/)
 - [Twitter](https://twitter.com/Lu15700/)

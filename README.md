@@ -1,8 +1,12 @@
-Beta 1.3
+Beta 2.0
 
-## Data Analytics and Engineering
+---
+## Skills
 
-## Computer Languages
+### Data Analytics and Engineering
+- AWS
+
+### Computer Languages
 - Python
 - SQL
 - Java
@@ -10,9 +14,14 @@ Beta 1.3
 - HTML
 - CSS
 
-## Human Languages
+### Human Languages
 - English
 - Spanish
 
-## Machine Learning
-- Later On...
+### Machine Learning
+- Basic concepts
+- Continuing to learn later on...
+
+## Socials
+- [LinkedIn](https://www.linkedin.com/in/lu15700/)
+- [Twitter](https://twitter.com/Lu15700/)

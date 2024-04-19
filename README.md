@@ -7,3 +7,6 @@
 
 ---
 ## Certifications
+
+---
+## Projects

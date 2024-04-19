@@ -4,6 +4,23 @@
 
 ## Skills
 
+### Data Engineering and Analytics
+- ...
+
+### Computer Languages
+- Python
+- SQL
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### Human Languages
+- English
+- Spanish
+
 ## Certifications
+- ...
 
 ## Projects
+- ...

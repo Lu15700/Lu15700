@@ -30,3 +30,5 @@
 - [Data Visualization in Power BI](https://github.com/Lu15700/data_visualization_in_power_bi)
 - [Excel-to-CSV in Python](https://github.com/Lu15700/excel-to-csv_in_python)
 - [Database Modeling in PostgreSQL](https://github.com/Lu15700/database_modeling_for_postgresql)
+- [Database Creation in PostgreSQL](https://github.com/Lu15700/database_creation_in_postgresql)
+- [Database Backup in PostgreSQL](https://github.com/Lu15700/database_backup_in_postgresql)

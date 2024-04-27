@@ -25,7 +25,7 @@
 - Microsoft Excel
 - Microsoft Power BI (and DAX)
 
-## Miscellaneous
+### Miscellaneous
 - Linux CLI
 - Windows CLI
 - Nix

@@ -4,8 +4,9 @@
 
 ## Skills
 
-### Data Engineering and Analytics
-- ...
+### Human Languages
+- English
+- Spanish
 
 ### Computer Languages
 - Python
@@ -15,12 +16,26 @@
 - HTML
 - CSS
 
-### Human Languages
-- English
-- Spanish
+### Data Engineering and Analytics
+- Amazon Web Services
+- PostgreSQL
+- Apache Airflow
+- Apache Spark
+- Apache Flink
+- Microsoft Excel
+- Microsoft Power BI (and DAX)
 
-## Certifications
-- ...
+## Miscellaneous
+- Linux CLI
+- Windows CLI
+- Nix
+- Git
+- Pandas
+- NumPy
+- Matplotlib
+- AWS SDK for Pandas (Awswrangler)
+- AWS SDK for Python (Boto3)
+- API Consumption
 
 ## Projects
 - [Event-Driven Pipeline in AWS](https://github.com/Lu15700/event-driven_pipeline_in_aws)

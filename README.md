@@ -1,4 +1,4 @@
-## Contact
+## Socials
 - [LinkedIn](https://www.linkedin.com/in/lu15700/)
 - [Twitter](https://twitter.com/Lu15700/)
 

@@ -14,6 +14,3 @@
 - [Database Backup in PostgreSQL](https://github.com/Lu15700/database_backup_in_postgresql)
 - Recreation of Data Pipeline with Spark and Amazon EMR (Done, But Not Published)
 - Essential Watchface for Wear OS (Done, But Not Published)
-
-## New Projects
-- [Free Resources Learning Journal](https://github.com/Lu15700/Free-Resources-Learning-Journal/blob/main/README.md)

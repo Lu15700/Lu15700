@@ -1,8 +1,4 @@
-## Socials
-- [LinkedIn](https://www.linkedin.com/in/lu15700/)
-- [Twitter](https://twitter.com/Lu15700/)
-
-## Projects
+## Some Projects
 - [Event-Driven Pipeline in AWS](https://github.com/Lu15700/event-driven_pipeline_in_aws)
 - [Data Profiling in Python](https://github.com/Lu15700/data_profiling_in_python)
 - [Data Profiles Comparison in Python](https://github.com/Lu15700/data_profiles_comparison_in_python)

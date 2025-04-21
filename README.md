@@ -8,5 +8,4 @@
 - [Database Modeling in PostgreSQL](https://github.com/Lu15700/database_modeling_for_postgresql)
 - [Database Creation in PostgreSQL](https://github.com/Lu15700/database_creation_in_postgresql)
 - [Database Backup in PostgreSQL](https://github.com/Lu15700/database_backup_in_postgresql)
-- Recreation of Data Pipeline with Spark and Amazon EMR (Done, But Not Published)
-- Essential Watchface for Wear OS (Done, But Not Published)
+- Essential Watchface for Wear OS (Not Published)
